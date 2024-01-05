@@ -1,7 +1,0 @@
-#include<iostream>
-using namespace std;
-int main(){
-  cout<<"hello world";
-  cout<<"Hello G kaise ho saare";
-  cout<<"Welcojme to github";
-}
